@@ -1,7 +1,7 @@
 {
   "stickers" : [
     {
-      "filename" : "BrewHops@3x.sticker"
+      "filename" : "BirminghamStickers@3x.sticker"
     },
     {
       "filename" : "INTHYIB@3x.sticker"
@@ -14,6 +14,9 @@
     },
     {
       "filename" : "RegionsFieldBham@3x.sticker"
+    },
+    {
+      "filename" : "BrewHops@3x.sticker"
     }
   ],
   "info" : {
